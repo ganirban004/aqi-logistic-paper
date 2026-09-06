@@ -2,4 +2,4 @@
 
 Multiple seasonality have been widely studied in continuous time series using models such as TBATS (Trigonometric, Box-Cox transform, ARMA errors, Trend and Seasonal components) and MSTL (Multiple Seasonal-Trend decomposition using LOESS). However, their treatment in categorical time series, such as air quality index (AQI) data, remains limited. Categorical AQI often exhibits distinct seasonal patterns at multiple frequencies, which are not captured by standard models. In this paper, we propose a framework that models multiple seasonality using Fourier series and indicator functions. The approach accommodates the ordinal nature of AQI categories while explicitly capturing weekly, monthly and yearly seasonal cycles. Simulation studies demonstrate the empirical consistency of parameter estimates and the forecasting performance of the proposed models under different data generating processes. We further illustrate its applicability using real categorical AQI data from Kolkata and Mumbai and compare forecasting performance with different methods.
 
-Main Article: https://doi.org/10.1002/env.70144
+Main Article: https://doi.org/10.1002/env.70144.
